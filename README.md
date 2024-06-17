@@ -1,6 +1,7 @@
 <h1>Hi, I'm Georgi! <br/><a href="https://github.com/goro-dim">A Cyber Enthusiast</a>.
   <h2> TryHackMe badge: </h2><img src="https://tryhackme-badges.s3.amazonaws.com/Bilka.png" alt="TryHackMe">
-
+<h2>Projects:</h2>
+<a href="https://github.com/goro-dim/k_logger/tree/main">Python key logger</a>
 <h2>Certifications:</h2>
 <p>
 <a href="https://certs.ine.com/40cb29d6-2060-4ff4-b516-f49e8467118f">[eCPPT]</a>
