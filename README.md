@@ -1,7 +1,11 @@
 <h1>Hi, I'm Georgi! <br/><a href="https://github.com/goro-dim">A Cyber Enthusiast</a>.
   <h2> TryHackMe badge: </h2><img src="https://tryhackme-badges.s3.amazonaws.com/Bilka.png" alt="TryHackMe">
 <h2>Projects:</h2>
-<a href="https://github.com/goro-dim/k_logger/tree/main">Python key logger</a>
+<ul>
+  <li><a href="https://github.com/goro-dim/k_logger/tree/main">Python key logger</a></li>
+  <li><a href="https://github.com/goro-dim/net_info">Network Info Application</a></li>
+
+</ul>  
 <h2>Certifications:</h2>
 <p>
 <a href="https://certs.ine.com/40cb29d6-2060-4ff4-b516-f49e8467118f">[eCPPT]</a>
@@ -14,14 +18,5 @@
 <h2> Connect with me on <a href =https://www.linkedin.com/in/georgi-dimitrov-770886255/> [LinkedIn]<a/> </h2>
 
 <!--
-Here are some ideas:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Comment
 -->
