@@ -2,10 +2,10 @@
   <h2> TryHackMe badge: </h2><img src="https://tryhackme-badges.s3.amazonaws.com/Bilka.png" alt="TryHackMe">
 <h2>Projects:</h2>
 <ul>
-  <li><a href="https://github.com/goro-dim/k_logger/tree/main">Python key logger</a> <span > |--> a Python-based keylogger that captures keystrokes and sends logs to a specified email </span></li>
+  <li><a href="https://github.com/goro-dim/k_logger/">Python key logger</a> <span > |--> a Python-based keylogger that captures keystrokes and sends logs to a specified email </span></li>
   <li><a href="https://github.com/goro-dim/net_info">Network Info Application</a> <span> |--> gathers and checks network data across multiple platforms against a threat intelligence platform.</span></li> 
 <li>
-    <a href="https://github.com/goro-dim/Tool-Depot-of-Ankh-Morpork/tree/main">
+    <a href="https://github.com/goro-dim/Tool-Depot-of-Ankh-Morpork/">
         Tool Depot of Ankh-Morpork </a>
         <span> |--> a collection of lightweight and efficient tools, whimsically inspired by Terry Pratchett's Discworld.</span>
     
