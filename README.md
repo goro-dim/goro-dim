@@ -2,12 +2,12 @@
   <h2> TryHackMe badge: </h2><img src="https://tryhackme-badges.s3.amazonaws.com/Bilka.png" alt="TryHackMe">
 <h2>Projects:</h2>
 <ul>
-  <li><a href="https://github.com/goro-dim/k_logger/">Python key logger</a> <span > |--> a Python-based keylogger that captures keystrokes and sends logs to a specified email </span></li>
-  <li><a href="https://github.com/goro-dim/net_info">NetInfo-ThreatIntel</a> <span> |--> Python tool that fetches and presents detailed threat information about given IP addresses or domains using the AbuseIPDB API. Sniffed by a Goblin</span></li> 
+  <li><a href="https://github.com/goro-dim/k_logger/">Python key logger</a> <span > -- a Python-based keylogger that captures keystrokes and sends logs to a specified email </span></li>
+  <li><a href="https://github.com/goro-dim/net_info">NetInfo-ThreatIntel</a> <span> -- Python tool that fetches and presents detailed threat information about given IP addresses or domains using the AbuseIPDB API. Sniffed by a Goblin</span></li> 
 <li>
     <a href="https://github.com/goro-dim/Tool-Depot-of-Ankh-Morpork/">
         Tool Depot of Ankh-Morpork </a>
-        <span> |--> a collection of lightweight and efficient tools, whimsically inspired by Terry Pratchett's Discworld.</span>
+        <span> -- a collection of lightweight and efficient tools, whimsically inspired by Terry Pratchett's Discworld.</span>
     
 </li>
 
