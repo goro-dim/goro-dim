@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 <ul>
   <li><a href="https://github.com/goro-dim/k_logger/">Python key logger</a> <span > |--> a Python-based keylogger that captures keystrokes and sends logs to a specified email </span></li>
-  <li><a href="https://github.com/goro-dim/net_info">Network Info Application</a> <span> |--> gathers and checks network data across multiple platforms against a threat intelligence platform.</span></li> 
+  <li><a href="https://github.com/goro-dim/net_info">NetInfo-ThreatIntel</a> <span> |--> Python tool that fetches and presents detailed threat information about given IP addresses or domains using the AbuseIPDB API. Sniffed by a Goblin</span></li> 
 <li>
     <a href="https://github.com/goro-dim/Tool-Depot-of-Ankh-Morpork/">
         Tool Depot of Ankh-Morpork </a>
