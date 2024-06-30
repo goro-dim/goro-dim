@@ -1,4 +1,4 @@
-<h1>Hi, I'm Georgi! <br/><a href="https://github.com/goro-dim">A Cyber Enthusiast</a>.
+<h1>Hi, I'm Georgi! <br/><a href="https://github.com/goro-dim">A Whimsical Cyber Enthusiast</a>.
   <h2> TryHackMe badge: </h2><img src="https://tryhackme-badges.s3.amazonaws.com/Bilka.png" alt="TryHackMe">
 <h2>Projects:</h2>
 <ul>
