@@ -11,7 +11,10 @@
     
 </li>
 
-
+<li> 
+  <a href="https://github.com/goro-dim/sec_scanner"> sec_scanner </a>
+<span> -- scanner that assesses cloud applications for open ports, public resources, role misconfigurations, and weak passwords using Flask and various scanning techniques.(work in progress) </span>
+</li>
 
 
 </ul>  
