@@ -16,6 +16,11 @@
 <span> -- scanner that assesses cloud applications for open ports, public resources, role misconfigurations, and weak passwords using Flask and various scanning techniques.(work in progress) </span>
 </li>
 
+<li> 
+  <a href="https://github.com/goro-dim/text2art/tree/main"> text2art </a>
+<span> --  an easy-to-follow guide for creating AI-generated art from text prompts for free using Stable Diffusion on Google Colab, no coding experience needed. </span>
+</li>
+
 
 </ul>  
         <h2>Certifications:</h2>
