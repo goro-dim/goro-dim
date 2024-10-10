@@ -17,10 +17,14 @@
 </li>
 
 <li> 
-  <a href="https://github.com/goro-dim/text2art/tree/main"> text2art </a>
+  <a href="https://github.com/goro-dim/text2art/"> text2art </a>
 <span> --  an easy-to-follow guide for creating AI-generated art from text prompts for free using Stable Diffusion on Google Colab, no coding experience needed. </span>
 </li>
 
+<li> 
+  <a href="https://github.com/goro-dim/Monty_Hall_problem/"> Monty_Hall_problem </a>
+<span> --  A fun, interactive CLI game that simulates the Monty Hall problem, offering players a chance to test the famous probability theory and view live game statistics. </span>
+</li>
 
 </ul>  
         <h2>Certifications:</h2>
