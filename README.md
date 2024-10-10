@@ -26,6 +26,11 @@
 <span> --  A fun, interactive CLI game that simulates the Monty Hall problem, offering players a chance to test the famous probability theory and view live game statistics. </span>
 </li>
 
+<li> 
+  <a href="https://github.com/goro-dim/BinBot/"> BinBot </a>
+<span> --  Meet BinBot, your adorable binary translator that converts text to binary, decodes binary back to text, and even 'speaks' in fun sounds! </span>
+</li>
+
 </ul>  
         <h2>Certifications:</h2>
         <p class="certifications">
