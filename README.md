@@ -1,4 +1,27 @@
-<h1>Hi, I'm Georgi! <br/><a href="https://github.com/goro-dim">A Whimsical Cyber Enthusiast</a>.
+
+<h1>Welcome to My Cyber Playground 🕵️‍♂️💻</h1>
+
+<p>Hi, I’m Georgi — a cyber enthusiast and software creator with a taste for inventive problem-solving. This repository is where I share tools, experiments, and resources built to tackle real-world security challenges and helpful tools, each with a bit of personality and a lot of purpose.</p>
+
+<h2>What You'll Find Here ⚙️</h2>
+
+<p>This collection includes everything from scanners for tracking malicious IPs to tools for testing vulnerabilities in cloud setups. Inspired by classic storytelling and the gritty realities of security work, each project has a unique flavor but remains grounded in functionality. My focus is on creating efficient, reliable tools that are also accessible and engaging, whether you’re a security professional or a curious tech enthusiast.</p>
+
+**🛠 Project Highlights:**  
+Explore tools like the “Goblin Sniffer” — an IP threat scanner with an eye for shady activity — or “BinBot,” a binary translator with a friendly side. For a full list of projects, check the links below.
+
+**📜 Certifications:**  
+I hold several industry certifications, including eCPPT and ISC2 Certified in Cybersecurity, with hands-on skills in penetration testing and cloud security. My projects reflect these best practices, blending a creative approach with the standards needed to address today’s cyber threats.
+
+
+---
+
+<p>Thanks for visiting, and feel free to dive into the projects, each with its own story — there’s always more to explore and discover.</p>
+
+
+
+
+
   
 <h2>Projects:</h2>
 <ul>
@@ -51,8 +74,12 @@
             </a></li><br>
         </ul>
         </p>
+            
+<hr>
 
-<h2> Connect with me on <a href =https://www.linkedin.com/in/georgi-dimitrov-770886255/> [LinkedIn]<a/> </h2>
+<p>🧪 Explore the tools, dive into the code, and see what sparks your curiosity. Each project here is crafted with care and a bit of creative flair.</p>
+
+<p> 🕶️ Thanks for stopping by! If you have questions, feedback, or ideas, feel free to reach out through GitHub — I’m always open to connecting with fellow cyber enthusiasts and collaborators.</p>
 
 <!--
 Comment
