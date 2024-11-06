@@ -18,7 +18,7 @@ Explore tools like the “Goblin Sniffer” — an IP threat scanner with an eye
 
 <ul>
     <li><a href="https://github.com/goro-dim/The-Witcher-School-of-Vulnerability-Trackers">The Witcher School of Vulnerability Trackers</a>
-        <span> -- An immersive suite of pentesting tools inspired by the Witcher universe, where each tool is modeled after a Witcher Sign. From port scanning and stealth obfuscation to social engineering defenses, this project arms digital hunters with specialized “Signs” to track and secure the vulnerabilities of cyberspace. <br>
+        <span>-- WORK IN PROGRESS... -- An immersive suite of pentesting tools inspired by the Witcher universe, where each tool is modeled after a Witcher Sign. From port scanning and stealth obfuscation to social engineering defenses, this project arms digital hunters with specialized “Signs” to track and secure the vulnerabilities of cyberspace. <br>
     </li>
     <li><a href="https://github.com/goro-dim/text2art/">text2art</a>
         <span> -- A simple guide for generating AI art from text prompts using Stable Diffusion on Google Colab. No coding experience needed! <br>
