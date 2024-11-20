@@ -45,7 +45,7 @@ Explore tools like the “Goblin Sniffer” — an IP threat scanner with an eye
 
 <p>🧪 Explore the tools, dive into the code, and see what sparks your curiosity. Each project here is crafted with care and a bit of creative flair.</p>
 
-<p> 🕶️ Thanks for stopping by! If you have questions, feedback, or ideas, feel free to reach out via <a href="mailto:ggdimitrov@duck.com">email</a>. I’m always open to connecting with fellow cyber enthusiasts and collaborators.</p>
+<p> 🕶️ Thanks for stopping by!</p>
 
 
 
