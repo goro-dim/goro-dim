@@ -15,11 +15,11 @@ A stash of tools and experiments where sarcasm meets functionality—like a rabb
 - [**API Avenger**](https://github.com/goro-dim/API_Avanger)  
   *-- WORK IN PROGRESS... --*  
   API Avenger: Fighting API vulnerabilities with AI-powered offense and defense, because someone has to be the hero our endpoints deserve.
-
+<!--
 - [**The Witcher School of Vulnerability Trackers**](https://github.com/goro-dim/The-Witcher-School-of-Vulnerability-Trackers)  
   *-- WORK IN PROGRESS... --*  
   Witcher-inspired pentesting tools. Hunt digital threats with Signs like *Yrden* for port scanning and *Quen* for stealth obfuscation.
-
+-->
 - [**text2art**](https://github.com/goro-dim/text2art/)  
   AI-generated art for mortals. Simple, magical, no sorcery degree required.
 
