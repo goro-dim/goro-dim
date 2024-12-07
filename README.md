@@ -1,4 +1,4 @@
-# The Curious Misadventures of Bytes 💾🤔
+# The Curious Misadventures of Goro's Bytes 💾🤔
 
 *"Not all who wander are lost... some are just debugging."*
 
