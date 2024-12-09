@@ -12,7 +12,7 @@ A stash of tools and experiments where sarcasm meets functionality—like a rabb
 ---
 
 ## Projects:
-- [**API Avenger**](https://github.com/goro-dim/API_Avanger)  
+- [**API Avenger**](https://github.com/goro-dim/API_Avenger)  
   *-- WORK IN PROGRESS... --*  
   API Avenger: Fighting API vulnerabilities with AI-powered offense and defense, because someone has to be the hero our endpoints deserve.
 <!--
