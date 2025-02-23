@@ -12,9 +12,11 @@ A stash of tools and experiments where sarcasm meets functionality—like a rabb
 ---
 
 ## Projects:
+- [**The Oops Fixed It Cloud Machine**]([https://github.com/goro-dim/API_Avenger](https://github.com/goro-dim/The-Oops-Fixed-It-Cloud-Machine))    
+  Automated cloud security scans and remediation scripts, designed to swiftly identify and correct common misconfigurations, ensuring a more secure and resilient cloud environment.
 - [**API Avenger**](https://github.com/goro-dim/API_Avenger)  
   *-- WORK IN PROGRESS... --*  
-  API Avenger: Fighting API vulnerabilities with AI-powered offense and defense, because someone has to be the hero our endpoints deserve.
+  Fighting API vulnerabilities with AI-powered offense and defense, because someone has to be the hero our endpoints deserve.
 <!--
 - [**The Witcher School of Vulnerability Trackers**](https://github.com/goro-dim/The-Witcher-School-of-Vulnerability-Trackers)  
   *-- WORK IN PROGRESS... --*  
